@@ -23,7 +23,7 @@ type alias Model =
     {}
 
 
-intt : Model
+init : Model
 
 
 init =
